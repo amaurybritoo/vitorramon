@@ -33,4 +33,4 @@
 
 ##
 
-![snake gif](https://github.com/vitorramon/vitorramon/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/vitorramon/vitorramon/blob/main/github-contribution-grid-snake.svg)
